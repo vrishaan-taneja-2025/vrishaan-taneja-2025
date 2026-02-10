@@ -1,6 +1,6 @@
 ## 👋 Who am I?
 
-Hi, I’m **Vrishaant** — a CS student who loves building things **from scratch**.  
+Hi, I’m **Vrishaan Taneja** — a CS student who loves building things **from scratch**.  
 I enjoy going deep into systems, understanding how things *actually* work under the hood, and learning by building rather than following tutorials.
 
 I’m especially interested in **systems programming, backend engineering, and applied ML**.

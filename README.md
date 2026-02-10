@@ -46,7 +46,7 @@ I’m especially interested in **systems programming, backend engineering, and a
 ## 📫 How to reach me?
 
 - 📧 Email: **vrishaantaneja@outlook.com**
-- 💼 LinkedIn: [Vrishaant Taneja](https://in.linkedin.com/in/vrishaan-taneja-6459b6281)
+- 💼 LinkedIn: [Vrishaan Taneja](https://in.linkedin.com/in/vrishaan-taneja-6459b6281)
 - 💬 Open to collaboration, learning, and meaningful tech discussions
 
 <!--
